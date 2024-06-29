@@ -6,6 +6,5 @@
   <title>Document</title>
 </head>
 <body>
-  <i class="baseline-help_outline"></i>
 </body>
 </html>
